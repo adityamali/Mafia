@@ -1,2 +1,2 @@
 # Mafia
-Open source JS framework for SPA
+Open source JS library for building SPAs
